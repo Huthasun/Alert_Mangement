@@ -5,6 +5,7 @@ import Ams from '../assets/Qr_code_AMS.png';
 
 const Testing = () => {
   const [message, setMessage] = useState('');
+  const [message1, setMessage1] = useState('');
   const [key1, setKey1] = useState('');
   const [key2, setKey2] = useState('');
   const [key3, setKey3] = useState('');
